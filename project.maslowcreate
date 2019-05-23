@@ -19,6 +19,10 @@
                         {
                             "name": "radius",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "max segment size",
+                            "ioValue": 1
                         }
                     ]
                 },
