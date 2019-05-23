@@ -12,17 +12,13 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 93,
-                    "y": 62,
+                    "x": 95,
+                    "y": 104,
                     "uniqueID": 670399,
                     "ioValues": [
                         {
                             "name": "radius",
                             "ioValue": 10
-                        },
-                        {
-                            "name": "max segment size",
-                            "ioValue": 1
                         }
                     ]
                 },
@@ -131,7 +127,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 1075,
                     "y": 164,
                     "ioValues": []
                 }
