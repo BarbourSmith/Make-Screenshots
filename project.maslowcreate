@@ -61,7 +61,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 9
+                            "ioValue": 29
                         }
                     ]
                 },
@@ -108,26 +108,9 @@
                     ]
                 },
                 {
-                    "atomType": "Gcode",
-                    "name": "Gcode",
-                    "x": 962,
-                    "y": 63,
-                    "uniqueID": 892699,
-                    "ioValues": [
-                        {
-                            "name": "tool size",
-                            "ioValue": 5.35
-                        },
-                        {
-                            "name": "passes",
-                            "ioValue": 6
-                        }
-                    ]
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1075,
+                    "x": 1074,
                     "y": 164,
                     "ioValues": []
                 }
@@ -167,12 +150,6 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 849537
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 849537,
-                    "ap2ID": 892699
                 }
             ],
             "fileTypeVersion": 1
