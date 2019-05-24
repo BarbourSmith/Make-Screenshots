@@ -19,18 +19,14 @@
                         {
                             "name": "radius",
                             "ioValue": 10
-                        },
-                        {
-                            "name": "max segment size",
-                            "ioValue": 1
                         }
                     ]
                 },
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 81,
-                    "y": 256,
+                    "x": 138,
+                    "y": 235,
                     "uniqueID": 460761,
                     "ioValues": [
                         {
@@ -181,5 +177,6 @@
             ],
             "fileTypeVersion": 1
         }
-    ]
+    ],
+    "circleSegmentSize": 2
 }
