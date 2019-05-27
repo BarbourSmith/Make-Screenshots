@@ -9,7 +9,7 @@
             "ioValues": [
                 {
                     "name": "Input920450",
-                    "ioValue": 42
+                    "ioValue": 12
                 }
             ],
             "topLevel": true,
@@ -31,7 +31,7 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 42
+                            "ioValue": 12
                         }
                     ]
                 },
