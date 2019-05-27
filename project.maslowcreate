@@ -6,14 +6,27 @@
             "x": 0,
             "y": 0,
             "uniqueID": 904047,
-            "ioValues": [],
+            "ioValues": [
+                {
+                    "name": "Input920450",
+                    "ioValue": 11
+                }
+            ],
             "topLevel": true,
             "allAtoms": [
                 {
+                    "atomType": "Input",
+                    "name": "Input920450",
+                    "x": 57,
+                    "y": 174,
+                    "uniqueID": 632020,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 95,
-                    "y": 104,
+                    "x": 176,
+                    "y": 61,
                     "uniqueID": 670399,
                     "ioValues": [
                         {
@@ -116,6 +129,12 @@
                 }
             ],
             "allConnectors": [
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "radius",
+                    "ap1ID": 632020,
+                    "ap2ID": 670399
+                },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
