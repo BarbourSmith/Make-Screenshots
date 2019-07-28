@@ -158,11 +158,6 @@
                     "ap2Name": "2D shape 312472",
                     "ap1ID": 343503,
                     "ap2ID": 849537
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 849537
                 }
             ],
             "fileTypeVersion": 1
