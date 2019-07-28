@@ -30,8 +30,8 @@
                     "uniqueID": 670399,
                     "ioValues": [
                         {
-                            "name": "radius",
-                            "ioValue": 12
+                            "name": "diameter",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -123,18 +123,12 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 991,
+                    "x": 1316,
                     "y": 164,
                     "ioValues": []
                 }
             ],
             "allConnectors": [
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "radius",
-                    "ap1ID": 632020,
-                    "ap2ID": 670399
-                },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
