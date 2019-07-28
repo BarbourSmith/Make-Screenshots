@@ -121,6 +121,14 @@
                     ]
                 },
                 {
+                    "atomType": "Stl",
+                    "name": "Stl",
+                    "x": 870,
+                    "y": 185,
+                    "uniqueID": 422790,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -163,6 +171,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 849537
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 849537,
+                    "ap2ID": 422790
                 }
             ],
             "fileTypeVersion": 1
