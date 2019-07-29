@@ -121,17 +121,12 @@
                     ]
                 },
                 {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 773,
-                    "y": 203,
-                    "uniqueID": 770042,
-                    "ioValues": [
-                        {
-                            "name": "diameter",
-                            "ioValue": 10
-                        }
-                    ]
+                    "atomType": "Stl",
+                    "name": "Stl",
+                    "x": 801,
+                    "y": 206,
+                    "uniqueID": 249970,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
@@ -171,6 +166,17 @@
                     "ap2Name": "2D shape 312472",
                     "ap1ID": 343503,
                     "ap2ID": 849537
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 849537
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 849537,
+                    "ap2ID": 249970
                 }
             ],
             "fileTypeVersion": 1
