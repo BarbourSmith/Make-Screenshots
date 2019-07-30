@@ -129,14 +129,6 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Svg",
-                    "name": "Svg",
-                    "x": 865,
-                    "y": 50,
-                    "uniqueID": 578750,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 974,
@@ -185,12 +177,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 849537,
                     "ap2ID": 249970
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 849537,
-                    "ap2ID": 578750
                 }
             ],
             "fileTypeVersion": 1
