@@ -82,7 +82,7 @@
                     "atomType": "Stl",
                     "name": "Stl",
                     "x": 509.58203125,
-                    "y": 286.806640625,
+                    "y": 284,
                     "uniqueID": 642204,
                     "ioValues": []
                 },
@@ -140,7 +140,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 974,
-                    "y": 164,
+                    "y": 152,
                     "ioValues": []
                 }
             ],
