@@ -81,16 +81,16 @@
                 {
                     "atomType": "Stl",
                     "name": "Stl",
-                    "x": 509.58203125,
-                    "y": 284,
+                    "x": 495,
+                    "y": 270,
                     "uniqueID": 642204,
                     "ioValues": []
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 579,
-                    "y": 219,
+                    "x": 539,
+                    "y": 191,
                     "uniqueID": 343503,
                     "ioValues": [
                         {
