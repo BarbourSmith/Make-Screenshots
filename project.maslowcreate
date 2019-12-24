@@ -78,7 +78,7 @@
                         },
                         {
                             "name": "y-axis degrees",
-                            "ioValue": 0
+                            "ioValue": 90
                         },
                         {
                             "name": "z-axis degrees",
@@ -150,11 +150,11 @@
                     "ioValues": [
                         {
                             "name": "Spacing",
-                            "ioValue": 5
+                            "ioValue": 2
                         },
                         {
                             "name": "Sheet Width",
-                            "ioValue": 50
+                            "ioValue": 80
                         },
                         {
                             "name": "Sheet Length",
@@ -174,7 +174,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 163.5,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
