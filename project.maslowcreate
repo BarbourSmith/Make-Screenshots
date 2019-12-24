@@ -123,8 +123,8 @@
                 {
                     "atomType": "CutLayout",
                     "name": "Cut Layout",
-                    "x": 900,
-                    "y": 211,
+                    "x": 878,
+                    "y": 214,
                     "uniqueID": 238791,
                     "ioValues": [
                         {
