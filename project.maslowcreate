@@ -68,14 +68,10 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 422,
-                    "y": 121,
+                    "x": 470,
+                    "y": 145,
                     "uniqueID": 111385,
                     "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
                         {
                             "name": "x-axis degrees",
                             "ioValue": 0
@@ -158,11 +154,11 @@
                         },
                         {
                             "name": "Sheet Width",
-                            "ioValue": 200
+                            "ioValue": 50
                         },
                         {
                             "name": "Sheet Length",
-                            "ioValue": 200
+                            "ioValue": 50
                         }
                     ]
                 },
@@ -202,7 +198,7 @@
                     "ap2Name": "geometry",
                     "ap2Primary": true,
                     "ap1ID": 521588,
-                    "ap2ID": 199058
+                    "ap2ID": 111385
                 },
                 {
                     "ap1Name": "geometry",
@@ -210,6 +206,13 @@
                     "ap2Primary": true,
                     "ap1ID": 707781,
                     "ap2ID": 343503
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 111385,
+                    "ap2ID": 199058
                 },
                 {
                     "ap1Name": "geometry",
